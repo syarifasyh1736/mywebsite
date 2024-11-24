@@ -1,0 +1,41 @@
+.jumbotron {
+  padding: 5rem 5rem;
+  background-color: #34528e;
+}
+.img {
+  float: right;
+}
+.display-4 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #fff;
+}
+
+.lead {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #babcc1;
+}
+
+.navbar-brand {
+  padding: 10px;
+  font-size: 30px;
+  font-weight: 10px;
+}
+
+.btn-outline-info {
+  border-width: 2px;
+}
+
+.navbar-collapse {
+  margin-right: 70px;
+}
+
+.text-center {
+  padding: 2rem 2rem;
+}
+body {
+  min-height: 1000px;
+}
+
+.card-title {
+  color: #34528e;
+}
